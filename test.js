@@ -1,3 +1,3 @@
-function test(a, b, c) {
+function RemoteTest() {
     this.ok = function() { console.log("hello from github"); }
 }
